@@ -1,0 +1,175 @@
+.navigation{
+    width: 50%;
+    padding: 10px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgba(75, 41, 0, 0.8);
+    opacity: 0.9;
+    float: inline-end;   
+    flex-wrap: wrap;
+
+}
+
+button{
+background-color: rgba(255, 188, 5, 0.8);
+border: solid black;
+border-radius: 20px;
+width: 80px;
+font-weight: 800;
+}
+
+
+
+
+
+button:hover{
+background-color: rgba(0, 128, 0, 0.5);
+transition: 900ms;
+
+
+}
+
+#dow{
+width: 30%;
+
+
+}
+
+
+.name{
+display: flex;
+justify-content: flex-start;
+width: 10%;
+font-weight: 800;
+font-size: x-large;
+color: rgb(10, 211, 151);
+}
+
+h4{
+
+font-size: x-large;
+
+
+}
+
+.dev{
+color: rgb(10, 211, 151); 
+font-style: oblique;
+font-weight: 300;
+font-size: large;
+font-weight: 550;
+margin-left: 60px;
+margin-top: 40px;
+font-style: italic;
+display: flex;
+flex-wrap: wrap;
+}
+
+
+
+
+.par-1{
+margin-left: 15%;
+width: 50%;
+margin-top: 5%;
+color: rgb(12, 1, 19);
+font-size: large;
+font-style: italic;
+font-size: large;
+font-weight: 600;
+display: flex;
+flex-wrap: wrap;
+
+}
+
+.parent-image{
+
+border: dashed rgb(0, 182, 152, 0.7);
+border-radius: 20%;
+width: 550px;
+background-color: rgb(87, 53, 2, 0.7);
+float: inline-end;
+opacity: 0.85;
+}
+
+.par-2{
+text-align: center;
+display: flex;
+justify-content: center;
+width: 50%;
+margin-top: 2%;
+color: rgb(245, 211, 170);
+font-size: x-large; 
+font-weight: 550;
+font-style: italic;
+padding: 20px;
+flex-wrap: wrap;
+}
+
+
+#bold{
+font-weight: 800;
+font-size: xx-large;
+font-weight: bold;
+color: rgb(0, 0, 0);
+margin-left: 10%;
+font-style: italic;
+}
+
+.par-3{
+font-size:x-large;
+width: 50%;
+display: flex;
+flex-wrap: wrap;
+font-weight: 500;
+color: rgb(255, 218, 172);
+font-style: italic;
+padding: 20px;
+flex-wrap: wrap;
+}
+
+
+.Dow{
+
+display: flex;
+justify-content: left;
+width: 300px;
+padding: 20px;
+margin-top: 400px;
+font-size: large;
+font-weight: 700;
+
+}
+
+
+.Cont{
+color: rgb(0, 250, 208);
+padding: 20px;
+font-size: x-large;
+font-weight: 500;
+font-style: italic;
+
+
+}
+
+
+body{
+background-image: 
+     linear-gradient(to right, rgb(1, 114, 71, 0.3), rgb(0, 0, 0, 0.7)),
+      url(./remy_loz-3S0INpfREQc-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+
+
+}
+
+
+
+
+
+
+

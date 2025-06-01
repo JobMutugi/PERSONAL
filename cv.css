@@ -1,0 +1,56 @@
+body{
+background-color: rgba(0, 0, 0, 0.932);
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+
+div{
+color: antiquewhite;
+font-size: large;
+font-weight: 700;
+font-style: italic;
+
+}
+
+h3{
+color: rgb(219, 114, 149);
+font-size: x-large;
+
+
+}
+
+h4{
+color: antiquewhite;
+
+}
+
+.navigation{
+
+display: flex;
+justify-content: space-around;
+align-content: center;
+width: 50%;
+float: inline-end;
+padding: 10px;
+border-radius: 20px;
+flex-wrap: wrap;
+background-color: rgb(51, 29, 0, 0.8);
+opacity: 0.8;
+}
+
+button{
+background-color: rgba(255, 188, 5, 0.8);
+border: solid black;
+border-radius: 20px;
+width: 80px;
+font-weight: 800;
+}
+
+button:hover{
+background-color: rgba(0, 128, 0, 0.5);
+transition: 900ms;
+
+
+}
+
